@@ -1,0 +1,6 @@
+#surefire
+#Fri Jun 23 12:09:56 ICT 2017
+user.dir=C\:\\AutomationInit\\TestInit
+testSuite=test.xml
+localRepository=C\:\\Users\\tuluu\\.m2\\repository
+basedir=C\:\\AutomationInit\\TestInit

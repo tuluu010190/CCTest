@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Test" duration-ms="16011" started-at="2017-06-23T05:09:57Z" finished-at="2017-06-23T05:10:13Z">
+    <groups>
+    </groups>
+    <test name="Amazon Test" duration-ms="16011" started-at="2017-06-23T05:09:57Z" finished-at="2017-06-23T05:10:13Z">
+      <class name="Amazon.testAmazon">
+        <test-method status="PASS" signature="test02()[pri:0, instance:Amazon.testAmazon@71be98f5]" name="test02" duration-ms="15980" started-at="2017-06-23T12:09:57Z" finished-at="2017-06-23T12:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- Amazon.testAmazon -->
+    </test> <!-- Amazon Test -->
+  </suite> <!-- Amazon Test -->
+</testng-results>
