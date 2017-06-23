@@ -5,7 +5,7 @@
 	<test name="Amazon Test"
 		preserve-order="true">
 		<classes>
-			<class name='Amazon.testAmazon'>
+			<class name='Amazon.AmazonTest'>
 			</class>
 		</classes>
 	</test>
